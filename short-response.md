@@ -10,6 +10,7 @@ What is a database? Why do we use one instead of storing data in a JavaScript ar
 
 **Your answer:**
 
+A database is an organized collection of data that is easy to search through. An example of a database is a library, which contains data on all its books currently available in its inventory, allowing users to find the book they are looking for. Databases are better at storing data because they are persistent, preventing data corruption even when servers are shut down due to updates, crashes, or restarts.
 ---
 
 ## Question 2
